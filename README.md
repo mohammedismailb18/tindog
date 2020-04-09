@@ -1,2 +1,2 @@
-# tindog
-meet new and interesting dogs nearby
+# tindognearby
+A simple front-end development using bootstrap
